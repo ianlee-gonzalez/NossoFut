@@ -1,0 +1,9 @@
+OURTEAM 
+Oque é futebol? 
+Qualquer um consegue responder isso principalmente morando no Brasil   mas poucos conhecem mais a fundo sobre oque  é futebol ,o intuito do site é te mostrar que futebol não é só chutar uma bola ,o publico alvo desse site seria pessoas que queiram saber um pouco mais sobre o assunto,um site sem fins lucrativos só educacionais com o objetivo de entreter seu publico com muita informação
+Serão 5 paginas ; 
+Home-Pagina index onde o cliente descobre a intençao do site.
+Regras-Pagina onde o cliente vai entender mais sobre da onde que surgiu essas regras no futebol e como que estão as regras hoje .
+Times-Pagina para o cliente ver informações sobre  os times de futebol e até jogadores 
+Campeonatos Pagina onde o cliente vai saber quais campeonatos existem 
+Estadios Pagina onde o cliente vai ver imagens de estadios e saber mais sobre eles

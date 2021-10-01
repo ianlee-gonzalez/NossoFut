@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body{
+    border:solid black;
+}
+ul{
+    list-style: none;
+}
+
+
+
+footer{
+    
+    border-top:  1px solid;
+}
